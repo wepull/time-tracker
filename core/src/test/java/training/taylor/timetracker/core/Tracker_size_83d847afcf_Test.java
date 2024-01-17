@@ -10,6 +10,7 @@ Test Scenario 2: Single Entry in List
 Test Scenario 3: Multiple Entries in List
 - In this test scenario, we will validate that the size function returns the correct count when there are multiple entries in the list.
 
+
 Test Scenario 4: Null List
 - This test scenario will validate that the size function handles a null list appropriately. Depending on the implementation, this could either throw an exception or return 0.
 
